@@ -1,0 +1,200 @@
+body{
+    
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    line-height: 2;
+  
+}
+h1{
+    margin-top: 100px;
+    font-family: 'Style Script', cursive;
+font-size: 100px;
+margin-bottom: 0;
+color: #41644A;
+}
+h3{
+    font-weight: lighter;
+    color:#609966 ;
+}
+h4{
+display: inline;
+margin-left: 50%;
+}
+
+hr{
+    border: dotted 6px;
+    border-bottom: none;
+    width:4%;
+    margin: 80px auto;
+    color: #E86A33;
+}
+p{
+    width: 65%;
+    text-align: justify;
+    margin: 40px auto 60px;
+}
+
+.gardening-wallpaper{
+margin: 0px auto;
+position: relative;
+height: 409px;
+width: 808px;
+
+}
+.navigation{
+    background-color: #41644A;
+    height: 80px;
+}
+.logo{
+    margin-left: 0px;
+    height: 50px;
+   padding-left: 15px;
+   padding-top: 8px;
+
+   border-color: white;
+   border: 4px;
+   position: absolute;
+   display: block;
+}
+.Flower-Collection{
+    position: absolute;
+   
+}
+.flower-pot1{
+    height: 300px;
+    width: 300px;
+}
+.flower-pot2{
+    height: 300px;
+    width: 300px;
+}
+.flower-pot3{
+    height: 300px;
+    width: 300px;
+}
+.flower-pot4{
+    height: 300px;
+    width: 300px;
+}
+.flower-collection-paragraph{
+    width: 65%;
+    text-align: justify;
+    margin: 40px auto 60px;
+}
+.btn {
+    background: #ffdbc9;
+    background-image: -webkit-linear-gradient(top, #ffdbc9, #f89c6e);
+    background-image: -moz-linear-gradient(top, #ffdbc9, #fb8f59);
+    background-image: -ms-linear-gradient(top, #ffdbc9, #fb8f59);
+    background-image: -o-linear-gradient(top, #ffdbc9, #fb8f59);
+    background-image: linear-gradient(to bottom, #ffdbc9, #fb8f59);
+    -webkit-border-radius: 6;
+    -moz-border-radius: 6;
+    border-radius: 6px;
+    text-shadow: 1px 1px 3px #666666;
+    font-family: 'Merriweather', serif;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 8px 15px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #fa4444;
+    background-image: -webkit-linear-gradient(top, #fa4444, #9c2121);
+    background-image: -moz-linear-gradient(top, #fa4444, #9c2121);
+    background-image: -ms-linear-gradient(top, #fa4444, #9c2121);
+    background-image: -o-linear-gradient(top, #fa4444, #9c2121);
+    background-image: linear-gradient(to bottom, #fa4444, #9c2121);
+    text-decoration: none;
+  }
+  .button{
+   
+    position: relative;
+  
+   margin-top: 10px;
+   margin-left: 50px;
+   margin-right: 50px;
+   margin-bottom: 50px;
+  
+  }
+  .img1{
+    margin-left: 0px;
+    margin-right: 120px;
+    
+   
+ }
+ .img2{
+  
+    margin-left: 100px;
+    margin-right: 50px;
+ }
+ .img3{
+   
+    margin-left: 100px;
+    margin-right: 50px;
+ }
+ .img4{
+   
+    margin-left: 100px;
+    margin-right: 50px;
+ }
+.vegetable-giphy {
+    width: 15%;
+    float: right;
+    margin: right;
+}
+.growth-gif{
+    width: 15%;
+    float: left;
+    margin:left; 
+}
+.plant-gif{
+    width: 15%;
+    float: right;
+    margin: right;
+}
+.first-tip{
+width: 70%;
+margin: 100px auto;
+text-align: left;
+}
+.Second-tip{
+    width: 70%;
+    margin: 100px auto;
+    text-align: left;
+    }
+   
+.Third-tip{
+    width: 70%;
+margin: 100px auto;
+text-align: left;
+}
+.h4-second{
+    margin-left: 35%;
+}
+.bottom-container{
+    background-color: #40513B;
+    height: 200px;;
+    margin-bottom: none;
+}
+.Contact{
+    margin-top: 10px;
+    margin-bottom: none;
+}
+.copyright{
+   margin-top: 50px;
+    position: relative;
+    display: inline;
+    color: #ffdbc9;
+}
+a{
+    font-family:  'Montserrat', sans-serif ;
+    color:#19A7CE;
+    text-decoration: none;
+    margin: 20px 30px;
+}
+a:hover{
+    color: #ebf0f3;
+}
